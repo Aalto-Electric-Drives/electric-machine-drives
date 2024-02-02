@@ -1,5 +1,5 @@
 # Fundamentals of Electric Machine Drives
-[![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
+[![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc][![DOI](https://zenodo.org/badge/751597772.svg)](https://zenodo.org/doi/10.5281/zenodo.10609166)
 
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc].
